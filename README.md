@@ -7,7 +7,7 @@ This project combines **data science + machine learning + web deployment** using
 
 It demonstrates a complete ML workflow:  
 **Data Cleaning → Exploratory Data Analysis → Model Training → Evaluation → Deployment**
-
+---
 ## 🌐 Live Demo
 Experience the working application here:
 
