@@ -58,12 +58,17 @@ The goal of this project is to:
 ---
 
 ## 🚀 How to Run This Project Locally
-```bash
 # Step 1: Clone repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/AfzalManihar/telco_customer-churn-prediction.git
 
 # Step 2: Move into project folder
-cd your-repo-name
+cd telco_customer-churn-prediction
+
+# Step 3: Install dependencies
+pip install -r requirements.txt
+
+# Step 4: Run Streamlit app
+streamlit run app.py
 
 # Step 3: Install dependencies
 pip install -r requirements.txt
