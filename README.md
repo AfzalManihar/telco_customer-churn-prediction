@@ -11,7 +11,7 @@ It demonstrates a complete ML workflow:
 ## 🌐 Live Demo
 Experience the working application here:
 
-👉 **Streamlit App:** https://your-app.streamlit.app  
+👉 **Streamlit App:** [https://your-app.streamlit.app  ](https://telcocustomer-churn-prediction-using-ml.streamlit.app/)
 
 📌 Note: Enter customer details and click “Predict” to check churn result in real-time.
 ---
